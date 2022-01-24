@@ -700,12 +700,15 @@ img {
 }
 .footer-social-icon {
   fill: currentColor;
-  margin-left: 10px;
 }
 .footer-social-link:hover,
 .footer-social-link:focus {
   background-color: var(--accent-color);
   color: var(--first-title-color);
+}
+.footer-social-icon-first {
+  fill: currentColor;
+  margin-left: 10px;
 }
 /* .footer-social-link-second {
   width: 44px;

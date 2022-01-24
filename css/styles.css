@@ -636,6 +636,7 @@ img {
   box-sizing: border-box;
   box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
   border-radius: 4px;
+  display: flex;
 }
 .footer-title-first {
   margin-bottom: 36px;
@@ -699,6 +700,7 @@ img {
 }
 .footer-social-icon {
   fill: currentColor;
+  margin-left: 10px;
 }
 .footer-social-link:hover,
 .footer-social-link:focus {
